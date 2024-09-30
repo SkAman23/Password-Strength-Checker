@@ -31,8 +31,6 @@ python main.py
 ## Contributing
 Contributions to improve the Password Strength Checker are welcome. Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - This project was inspired by the need for better password security practices.
