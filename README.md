@@ -24,7 +24,7 @@ This Python Script use for checking password strength. It evaluates passwords ba
 ## Usage
 Run the application by executing:
 ```
-python password_checker.py
+python main.py
 ```
 
 
